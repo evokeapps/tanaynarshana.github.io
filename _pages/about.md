@@ -1,25 +1,20 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Machine Learning Engineer @ <a href='https://www.observe.ai/'>Observe.AI</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_cicular: false # crops the image to make it circular
+  address:
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a Machine Learning Engineer at <a href='https://www.observe.ai/'>Observe.AI</a>, where I am exploring Natural Language Processing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I was a Masters Student in the <a href='https://mllab.csa.iisc.ac.in/'>Machine Learning Lab</a> at IISc where I worked at the Intersection of Continuous Optimization and Computer Architecture for Efficient Machine Learning under the guidance of <a href='https://www.csa.iisc.ac.in/~chiru/'>Prof. Chiranjib Bhattacharyya</a> and <a href='http://www.serc.iisc.ernet.in/~govind/'>Prof. Govindarajan Ramaswamy</a>. Particularly, our focus was on pruning Deep Neural Networks. Before that, I obtained a Bachelors Degree in Electrical Engineering from IIT Ropar.
