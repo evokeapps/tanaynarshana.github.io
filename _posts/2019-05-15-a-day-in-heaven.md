@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "A day in heaven."
-date:   2019-05-15 01:10:05 +0530
-categories: jekyll update
+date:   2019-05-15 00:00:00-0000
+description: A short story (fiction) written by me.
+categories: misc
+related_posts: false
 ---
 <p align="right">A short story (fiction) written by me.</p>
 
